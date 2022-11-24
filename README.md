@@ -1,1 +1,1 @@
-# iai-isii
+**Code for ITMO ML tools course**
