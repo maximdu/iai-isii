@@ -2,4 +2,4 @@
 
 MNIST CNN Learning:
 
-![alt text](https://github.com/maximdu/iai-isii/blob/main/learning.jpg?raw=true)
+![alt text](https://github.com/maximdu/iai-isii/blob/main/learning.png?raw=true)
